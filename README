@@ -39,6 +39,12 @@ For example add the following to the end of your ~/.bash_profile
 export PATH="$PATH:~/git/git-achievements"
 alias git="git-achievements"
 
+In Ubuntu, using ~ for the path does not work, you will need to specify
+the entire path for example
+
+export PATH="$PATH:/home/user/git/git-achievements"
+alias git="git-achievements"
+
 You can get your first achievement by running
 
     git achievements --help

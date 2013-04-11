@@ -2,6 +2,7 @@
 <title>David Kowis's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Miller (Level 4)</title><description>Add only part of a file to the stage 1513 times with git add -p.</description></item>
 <item><title>Apprentice Miller (Level 3)</title><description>Add only part of a file to the stage 1489 times with git add -p.</description></item>
 <item><title>Apprentice Miller (Level 2)</title><description>Add only part of a file to the stage 1483 times with git add -p.</description></item>
 <item><title>Apprentice Miller (Level 1)</title><description>Add only part of a file to the stage 1474 times with git add -p.</description></item>
@@ -21,5 +22,4 @@
 <item><title>Apprentice Tree Trimmer (Level 3)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Apprentice Tree Trimmer (Level 2)</title><description>Rewrite branches with git filter-branch</description></item>
 <item><title>Apprentice Tree Trimmer (Level 1)</title><description>Rewrite branches with git filter-branch</description></item>
-<item><title>Apprentice Cathedral Worker (Level 1)</title><description>Cloned submodule repository and checked out commits specified by superproject.</description></item>
 </channel></rss>
